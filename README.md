@@ -1,5 +1,5 @@
 # AI - Artificial intelligence
-This repository contains assignments given by [Prof. Swaroop Devaraju](https://www.linkedin.com/in/swaroop-devaraju-43851918/?originalSubdomain=in) for the
+This repository contains assignments given by [Prof. Swaroop Devaraju](https://www.linkedin.com/in/swaroop-devaraju-43851918/?originalSubdomain=in) for
  
 | Course Name | Course Code | 
 | :-----------: | :-------------: |
