@@ -1,7 +1,7 @@
 # AI - Artificial intelligence
 This repository contains assignments given by [Prof. Swaroop Devaraju](https://www.linkedin.com/in/swaroop-devaraju-43851918/?originalSubdomain=in) for the
  
-| Course   | Course no. | 
+| Course Name | Course Code | 
 | :-----------: | :-------------: |
 | AI TECHNIQUES AND APPLICATIONS | ICD03 |
 
